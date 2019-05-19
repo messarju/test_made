@@ -1,0 +1,1 @@
+/data/sdext2/data/com.termux/files/home
