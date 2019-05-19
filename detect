@@ -1,5 +1,1 @@
-#!/bin/sh
-
-# this pack is valid for all apps
-echo "ffmpeg"
-exit 0
+/data/sdext2/data/com.termux/files/home
